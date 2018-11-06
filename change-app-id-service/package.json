@@ -1,0 +1,15 @@
+{
+  "name": "change-app-id-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Burim Kameri",
+  "license": "ISC",
+  "dependencies": {
+    "exec-sh": "^0.3.2",
+    "express": "^4.16.4"
+  }
+}
